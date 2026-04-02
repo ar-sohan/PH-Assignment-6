@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content and copy in seconds using advanced AI models.",
+    "price": 29,
+    "period": "mo",
+    "tag": "Best Seller",
+    "tagType": "warning",
+    "features": ["Unlimited generations", "SEO optimization", "Custom workflows"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/8690/8690757.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "200+ premium UI templates and assets for modern web development.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "primary",
+    "features": ["Figma source files", "Monthly updates", "Commercial license"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3206/3206015.png"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Access to millions of high-quality photos, videos, and vector graphics.",
+    "price": 19,
+    "period": "mo",
+    "tag": "New",
+    "tagType": "accent",
+    "features": ["4K resolution", "Unlimited downloads", "Royalty-free"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1157/1157044.png"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Connect your favorite apps and automate your daily repetitive tasks.",
+    "price": 79,
+    "period": "yr",
+    "tag": "Popular",
+    "tagType": "primary",
+    "features": ["50+ integrations", "Visual builder", "Analytics dashboard"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2040/2040504.png"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Stand out to employers with ATS-friendly, professional resume designs.",
+    "price": 15,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "accent",
+    "features": ["ATS optimization", "10+ premium layouts", "Export to PDF"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/942/942748.png"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Pre-made social media templates to boost your online engagement.",
+    "price": 39,
+    "period": "mo",
+    "tag": "Best Seller",
+    "tagType": "warning",
+    "features": ["365 days of posts", "Canva editable", "Analytics tracking"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1968/1968641.png"
+  }
+]
